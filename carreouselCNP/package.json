@@ -1,0 +1,20 @@
+{
+  "name": "carrousel-cnp",
+  "version": "1.0.0",
+  "description": "Carrousel interactif pour le parcours @move² - CNP",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080 -o",
+    "dev": "npx live-server --port=8080"
+  },
+  "keywords": [
+    "carousel",
+    "cnp",
+    "move2",
+    "webapp"
+  ],
+  "author": "CNP",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
